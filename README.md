@@ -11,7 +11,7 @@ Not claimed as original work. Country CSVs plus a `categories.csv` lookup are st
 |------|--------|--------|
 | 1 | [part1_python_foundations](part1_python_foundations/) | Core Python, cleaning, data structures, rule-based labels |
 | 2 | [part2_numpy_pandas](part2_numpy_pandas/) | NumPy + Pandas wrangling |
-| 3 | `part3_visualization_eda/` | Visualization & EDA *(coming next)* |
+| 3 | [part3_visualization_eda](part3_visualization_eda/) | Visualization, EDA & content-strategy briefing |
 | 4 | `part4_sql_spreadsheet/` | SQL + spreadsheet summary *(coming next)* |
 
 Each Part folder is self-contained (its own README, dependencies, notebook/code, and data).

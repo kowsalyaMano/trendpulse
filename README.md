@@ -10,7 +10,7 @@ Not claimed as original work. Country CSVs plus a `categories.csv` lookup are st
 | Part | Folder | Focus |
 |------|--------|--------|
 | 1 | [part1_python_foundations](part1_python_foundations/) | Core Python, cleaning, data structures, rule-based labels |
-| 2 | `part2_numpy_pandas/` | NumPy + Pandas wrangling *(coming next)* |
+| 2 | [part2_numpy_pandas](part2_numpy_pandas/) | NumPy + Pandas wrangling |
 | 3 | `part3_visualization_eda/` | Visualization & EDA *(coming next)* |
 | 4 | `part4_sql_spreadsheet/` | SQL + spreadsheet summary *(coming next)* |
 
